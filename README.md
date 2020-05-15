@@ -9,6 +9,7 @@ tests-id01-id03.js
 
 01) Searches repo with name Nuxt.js  on github;
 03) Open Nuxt.js repo and check topics;
+
 // if you have no firefox type chrome in commands.
 ```
 npx testcafe firefox e2e/tests-id01-id03.js -L
