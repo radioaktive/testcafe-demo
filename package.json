@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/radioaktive/testcafe-demo#readme",
   "dependencies": {
-    "testcafe": "^1.8.4"
+    "testcafe": "^1.20.1"
   }
 }
